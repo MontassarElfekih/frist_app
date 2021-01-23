@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MontassarElfekih/frist_app.git/static/css/main.c8dad066.chunk.css",
+    "main.js": "/MontassarElfekih/frist_app.git/static/js/main.f472d2bd.chunk.js",
+    "main.js.map": "/MontassarElfekih/frist_app.git/static/js/main.f472d2bd.chunk.js.map",
+    "runtime-main.js": "/MontassarElfekih/frist_app.git/static/js/runtime-main.78234ec9.js",
+    "runtime-main.js.map": "/MontassarElfekih/frist_app.git/static/js/runtime-main.78234ec9.js.map",
+    "static/css/2.150d169a.chunk.css": "/MontassarElfekih/frist_app.git/static/css/2.150d169a.chunk.css",
+    "static/js/2.75cdb89e.chunk.js": "/MontassarElfekih/frist_app.git/static/js/2.75cdb89e.chunk.js",
+    "static/js/2.75cdb89e.chunk.js.map": "/MontassarElfekih/frist_app.git/static/js/2.75cdb89e.chunk.js.map",
+    "static/js/3.9d9a8712.chunk.js": "/MontassarElfekih/frist_app.git/static/js/3.9d9a8712.chunk.js",
+    "static/js/3.9d9a8712.chunk.js.map": "/MontassarElfekih/frist_app.git/static/js/3.9d9a8712.chunk.js.map",
+    "index.html": "/MontassarElfekih/frist_app.git/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/MontassarElfekih/frist_app.git/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c8dad066.chunk.css.map": "/MontassarElfekih/frist_app.git/static/css/main.c8dad066.chunk.css.map",
+    "static/js/2.75cdb89e.chunk.js.LICENSE.txt": "/MontassarElfekih/frist_app.git/static/js/2.75cdb89e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78234ec9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.75cdb89e.chunk.js",
+    "static/css/main.c8dad066.chunk.css",
+    "static/js/main.f472d2bd.chunk.js"
+  ]
+}
